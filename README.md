@@ -29,8 +29,8 @@ Le code produit devra être d'un niveau de qualité suffisante en vue d'être co
 
 ## Liens utiles
 
-    node-upnp-client : A pure Javascript upnp client pour les premiers tests d'UPnP
-    OpenHAB
-    UPnP
-    OSGi UPnP Base Driver
-    projet d'extension XBMC : source de l'addon DLink 
+   [node-upnp-client : A pure Javascript upnp client pour les premiers tests d'UPnP] (https://www.npmjs.com/package/node-upnp-client)
+    [OpenHAB] (http://air.imag.fr/index.php/OpenHAB)
+    [UPnP] (http://air.imag.fr/index.php/UPnP)
+    [OSGi UPnP Base Driver] (http://air.imag.fr/index.php/OSGi_UPnP_Base_Driver)
+    [projet d'extension XBMC] (http://air.imag.fr/index.php/Extensions_XBMC/Fiche_Suivi#D.C3.A9p.C3.B4ts_Git) : [source de l'addon DLink] (https://bitbucket.org/xbmcproject/script.dlinkcameraxbmcaddon/src/1c22f0059c770e15b9ab8946288ef7a59c962a42/addon.py?fileviewer=file-view-default) 
