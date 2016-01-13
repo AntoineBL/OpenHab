@@ -1,10 +1,11 @@
 # OpenHab
-UPnPOpenHAB2016 { Intégration de caméras UPnP dans la plate-forme OpenHAB }
+**UPnPOpenHAB2016 { Intégration de caméras UPnP dans la plate-forme OpenHAB }**
 
- Technologies
+1. ## Technologies
 
 Caméras de surveillance vidéo OpenHAB : plateforme logicielle domotique (open-source)
-Fonctionnalités attendues
+
+2. ## Fonctionnalités attendues
 
     Découverte automatique des caméras avec UPnP
     Liste des caméras récemment découvertes dans l'IHM d'OpenHAB
@@ -19,13 +20,14 @@ Fonctionnalités attendues
 
 
 Le code produit devra être d'un niveau de qualité suffisante en vue d'être contribuer à la communauté open-source Eclipse SmartHome.
-Matériels
+
+3. ## Matériels
 
     Caméras IP DLink
         D-LINK DCS-932L
         D-LINK PTZ DCS-5222L 
 
-Liens utiles
+4. ## Liens utiles
 
     node-upnp-client : A pure Javascript upnp client pour les premiers tests d'UPnP
     OpenHAB
