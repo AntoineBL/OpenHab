@@ -30,7 +30,7 @@ The ultimate goal is to contribute to the open-source Eclipse SmartHome communit
 
 ## Useful links
 
-   * [node-upnp-client : A pure Javascript upnp client] (https://www.npmjs.com/package/node-upnp-client) pour les premiers tests d'UPnP
+   * [node-upnp-client : A pure Javascript upnp client] (https://www.npmjs.com/package/node-upnp-client) fo the first UPnp Tests
    
    * [OpenHAB] (http://air.imag.fr/index.php/OpenHAB)
    
